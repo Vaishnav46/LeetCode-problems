@@ -10,7 +10,7 @@ public class Strstr {
 
         if (needle.isEmpty())
             return 0;
-
+ //still not solved
         if (m < n)
             return -1;
 
